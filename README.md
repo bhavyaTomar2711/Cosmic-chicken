@@ -4,7 +4,7 @@ Welcome to the official documentation for Cosmic Chicken, a decentralized game o
 
 ## Quick Links
 
-*   **🚀 Play Live:** [**cosmic-chicken-somnia-mini-games.vercel.app**](https://cosmic-chicken-somnia-mini-games.vercel.app/)
+*   **🚀 Play Live:** [**cosmic-chicken.vercel.app**](https://cosmic-chicken.vercel.app/)
 *   **🎬 Watch Demo:** [**YouTube Video**](https://youtu.be/TnNddi1X2jI)
 *   **📄 View Smart Contract:** [**Flow EVM Testnet Explorer**](https://evm-testnet.flowscan.io/address/0x387291E20735bF1362D42b9e90bF8803165648CA)
 
